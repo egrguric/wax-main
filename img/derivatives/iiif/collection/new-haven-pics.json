@@ -1,0 +1,71 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/new-haven-pics.json",
+  "@type": "sc:Collection",
+  "label": "new-haven-pics",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/IMG_0439/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "IMG_0439"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/IMG_0377/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "IMG_0377"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/IMG_0405/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "IMG_0405"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/IMG_0403/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "IMG_0403"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/IMG_0456/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "IMG_0456"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/IMG_0381/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "IMG_0381"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/IMG_0432/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "IMG_0432"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/IMG_0426/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "IMG_0426"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/IMG_0422/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "IMG_0422"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/IMG_0385/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "IMG_0385"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/IMG_0391/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "IMG_0391"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/IMG_0384/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "IMG_0384"
+    }
+  ]
+}
