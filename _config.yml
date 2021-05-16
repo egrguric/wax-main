@@ -20,7 +20,7 @@
 
 title:            'Wax'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'http://127.0.0.1:4000'
+url:              'https://rcastonguay.github.io/wax-main/'
 baseurl:          '/wax'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
